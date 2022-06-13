@@ -18,6 +18,7 @@ pre {
 div.jp-OutputArea,
 div.jp-OutputArea-child,
 div.jp-OutputArea-output,
+div.jp-OutputArea-prompt,
 div.jupyter-widgets.widget-output {
   padding: 0;
   margin: 0;
