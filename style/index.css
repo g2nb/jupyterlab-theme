@@ -14,3 +14,11 @@ pre {
 #jp-MainLogo {
   display: none;
 }
+
+div.jp-OutputArea,
+div.jp-OutputArea-child,
+div.jp-OutputArea-output,
+div.jupyter-widgets.widget-output {
+  padding: 0;
+  margin: 0;
+}
