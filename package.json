@@ -1,6 +1,6 @@
 {
   "name": "@g2nb/jupyterlab-theme",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "A theme extension for JupyterLab with the g2nb logo and colors",
   "author": {
     "name": "Thorin Tabor",
