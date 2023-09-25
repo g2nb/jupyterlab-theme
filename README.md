@@ -4,7 +4,7 @@ A theme extension for JupyterLab with the g2nb logo and colors
 
 ## Prerequisites
 
-* JupyterLab >= 3.0.0
+* JupyterLab >= 4.0.0
 
 ## Installation
 
